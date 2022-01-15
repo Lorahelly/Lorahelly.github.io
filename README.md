@@ -2,8 +2,19 @@
 ```markdown
 [利用规约]      [VB下载]      [联系]      [Link]
 ```
-这是{砂野亜}的配布站
-管理者：Hemera.P
+这是 *砂野亜* 的配布站
 
 
-#[Link](url) and ![Image](src)
+
+
+
+
+
+
+
+
+#
+###### 管理者：Hemera.P
+
+
+
